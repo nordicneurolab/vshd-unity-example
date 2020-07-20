@@ -1,0 +1,11 @@
+This is an instruction on how to create the Barrel Distortion shader material from the shader file.
+The following steps have already been performed and are just included for educational purposes. 
+
+1. Add BarrelDistorsion script to camera
+2. Create material by right clicking the shader
+3. Add shader as a variable to the script
+
+References: 
+https://forum.unity.com/threads/barrel-distorsion-shader-nexus-7-oculus-rift-efect.179793/
+https://github.com/wolf96/shader_for_unity/blob/master/Post%20processing/Distortion/Barrel/Barrel.shader
+
