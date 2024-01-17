@@ -8,10 +8,10 @@ using UnityEngine;
 public class GamePlay : MonoBehaviour
 {
     [SerializeField]
-    private TextMeshProUGUI _score;
+    private TextMeshPro _score;
 
     [SerializeField]
-    private TextMeshProUGUI _finish;
+    private TextMeshPro _finish;
 
     private void Start()
     {

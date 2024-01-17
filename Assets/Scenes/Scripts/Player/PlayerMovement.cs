@@ -62,8 +62,8 @@ public class PlayerMovement : MonoBehaviour
     {
         if (PlayerController.canMove)
         {
-            moveSpeed = 0.7f;
-            rotationSpeed = 30.0f; 
+            moveSpeed = 0.4f;
+            rotationSpeed = 15.0f; 
         }else
         {
             moveSpeed = 0;
